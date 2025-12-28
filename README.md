@@ -1,8 +1,6 @@
 ## Hello world 👋
 
-I'm Jakob Lutz.
-
-I study Economics and Computer Science and my interests are in **quantitative finance**, **machine learning**, and **statistical modeling**, with a focus on research-oriented and mathematically grounded projects.
+I'm Jakob Lutz. I study Computer Science and Economics and my interests are in **quantitative finance**, **machine learning**, and **statistical modeling**. My main focus is on research-oriented and mathematically grounded projects.
 
 📫 Reach me: jakob.lutz123@gmail.com
 
