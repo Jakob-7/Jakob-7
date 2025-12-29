@@ -19,9 +19,10 @@ I'm Jakob Lutz. I study Computer Science and Economics and my interests are in *
 Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio allocation.  
 Focused on feature engineering, model evaluation under realistic constraints, and risk-adjusted performance.
 
-### 📊 Limit Order Book Alpha Modeling  
-Developed predictive signals from high-frequency **limit order book data**, exploring microstructure features and short-horizon alpha generation.  
-Emphasis on statistical validation and robustness.
+### 📊 Limit Order Book Alpha Research Pipeline
+Built an end-to-end research pipeline for short-horizon modeling using high-frequency limit order book microstructure data, with emphasis on feature engineering and predictive modeling.  
+Strong focus on statistical validation, robustness, and realistic backtesting under transaction costs.
+
 
 ---
 
