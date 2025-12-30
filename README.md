@@ -29,7 +29,7 @@ Emphasis on feature engineering, statistical validation, robustness, and realist
 
 ## ⚡ Hackathon Project
 
-### 🔌 [Energy Consumption Prediction for Refrigerators](https://github.com/Jakob-7/Machine-Learning-Energy-Challenge-Hackaton)  
+### 🔌 [Energy Consumption Prediction for Refrigerators (🥉 3rd Place)](https://github.com/Jakob-7/Machine-Learning-Energy-Challenge-Hackaton)  
 Developed a machine learning model to disaggregate and predict household refrigerator energy consumption from aggregate smart-meter data.  
 Emphasized time-series preprocessing, regression modeling, and generalization to unseen households.
 
