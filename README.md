@@ -21,7 +21,7 @@ My interests lie in **quantitative finance**, **machine learning**, and **statis
 Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio construction.  
 Focused on feature engineering, model evaluation under realistic constraints, and risk-adjusted performance.
 
-### 📊 Limit Order Book Alpha Research Pipeline  
+### 📊 [Limit Order Book Alpha Research Pipeline](https://github.com/Jakob-7/Limit-Order-Book-Alpha-Research-Pipeline)  
 Built a research pipeline for short-horizon prediction using high-frequency limit order book microstructure data.  
 Emphasis on feature engineering, statistical validation, robustness, and realistic backtesting under transaction costs.
 
@@ -29,7 +29,7 @@ Emphasis on feature engineering, statistical validation, robustness, and realist
 
 ## ⚡ Hackathon Project
 
-### 🔌 Energy Consumption Prediction for Refrigerators  
+### 🔌 [Energy Consumption Prediction for Refrigerators](https://github.com/Jakob-7/Machine-Learning-Energy-Challenge-Hackaton)  
 Developed a machine learning model to disaggregate and predict household refrigerator energy consumption from aggregate smart-meter data.  
 Emphasized time-series preprocessing, regression modeling, and generalization to unseen households.
 
@@ -37,19 +37,19 @@ Emphasized time-series preprocessing, regression modeling, and generalization to
 
 ## 🏫 University Projects
 
-### ⚽ Machine Learning Soccer Player Valuation  
+### ⚽ [Machine Learning Soccer Player Valuation](https://github.com/Jakob-7/ML_football_market_value)  
 Developed a machine learning model to predict professional football players’ market value using technical, physical, and contextual features.  
 Applied LightGBM with feature engineering, log-transformed targets, Optuna-based hyperparameter tuning, and SHAP analysis to interpret key drivers of player valuation.
 
-### 🗄️ Big Data Project: Medical Insurance Claim Analytics  
+### 🗄️ [Big Data Project: Medical Insurance Claim Analytics](https://github.com/Jakob-7/Medical-Insurance-Claim-Prediction-and-Risk-Segmentation) 
 Built an end-to-end big data workflow in KNIME to analyze medical insurance claims.  
 Modeled claim occurrence and claim severity using regression, classification, and clustering techniques, with careful treatment of data leakage, class imbalance, and heavy-tailed cost distributions.
 
-### 📉 Statistical Analysis of Longevity and Supercentenarians  
+### 📉 [Statistical Analysis of Longevity and Supercentenarians](https://github.com/Jakob-7/Statistical-Analysis-of-Longevity) 
 Conducted a survival analysis study on human longevity using validated centenarian and supercentenarian data.  
 Fitted parametric survival models (Gamma and Weibull) and compared them against Kaplan–Meier estimates to study tail behavior and extrapolated lifespan limits.
 
-### 🧠 Random 3-SAT Solver
+### 🧠 [Random 3-SAT Solver](https://github.com/Jakob-7/Solving-Random-k-SAT-with-Simulated-Annealing) 
 Implemented a stochastic solver for random 3-SAT instances using simulated annealing.  
 Analyzed algorithmic performance, acceptance-rate dynamics, and empirical phase transitions as a function of the clause-to-variable ratio.
 
