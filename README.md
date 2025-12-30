@@ -23,6 +23,13 @@ Focused on feature engineering, model evaluation under realistic constraints, an
 Built an end-to-end research pipeline for short-horizon modeling using high-frequency limit order book microstructure data, with emphasis on feature engineering and predictive modeling.  
 Strong focus on statistical validation, robustness, and realistic backtesting under transaction costs.
 
+---
+
+## ⚡ Hackathon Project
+
+### 🔌 Energy Consumption Prediction for Refrigerators  
+Developed a machine learning model to disaggregate and predict household refrigerator energy consumption from aggregate smart-meter data.
+Emphasized regression modeling, feature engineering, and generalization to unseen households.
 
 ---
 
@@ -42,14 +49,6 @@ Implemented and analyzed algorithms for solving the **k-SAT problem**, studying 
 ### 🗄️ Big Data Project: Medical Insurance Analytics  
 Processed large-scale medical insurance datasets to study cost drivers and risk factors.  
 Used distributed data processing and statistical analysis techniques.
-
----
-
-## ⚡ Hackathon Project
-
-### 🔌 Energy Consumption Prediction for Refrigerators  
-Developed a machine learning model to predict household refrigerator energy consumption.  
-Focused on regression modeling, feature selection, and generalization performance.
 
 ---
 
