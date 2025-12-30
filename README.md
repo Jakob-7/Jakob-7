@@ -17,7 +17,7 @@ My interests lie in **quantitative finance**, **machine learning**, and **statis
 
 ## 🔬 Personal Projects
 
-### 📈 Machine Learning Trading System  
+### 📈 [Machine Learning Trading System](https://github.com/Jakob-7/Machine-Learning-Trading-System)  
 Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio construction.  
 Focused on feature engineering, model evaluation under realistic constraints, and risk-adjusted performance.
 
