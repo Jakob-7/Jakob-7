@@ -1,62 +1,73 @@
-## Hello world 👋
+## Hello 👋
 
-I'm Jakob Lutz. I study Computer Science and Economics and my interests are in **quantitative finance**, **machine learning**, and **statistical modeling**. My main focus is on research-oriented and mathematically grounded projects.
+I'm **Jakob Lutz** and I am currently studying **Computer Science and Economics**.  
+My interests lie in **quantitative finance**, **machine learning**, and **statistical modeling**, with a strong focus on research-oriented and mathematically grounded projects.
 
 📫 Reach me: jakob.lutz123@gmail.com
+
 
 ---
 
 ## 🎓 Academic Background
 
-- **BSc in Economics & Computer Science** — Bocconi University, Milan, Italy
-- **Exchange Student** — Georgia Institute of Technology, Atlanta, United States
+- **BSc in Economics & Computer Science** — Bocconi University, Milan, Italy  
+- **Exchange Student** — Georgia Institute of Technology, Atlanta, United States  
 
 ---
 
 ## 🔬 Personal Projects
 
 ### 📈 Machine Learning Trading System  
-Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio allocation.  
+Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio construction.  
 Focused on feature engineering, model evaluation under realistic constraints, and risk-adjusted performance.
 
-### 📊 Limit Order Book Alpha Research Pipeline
-Built an end-to-end research pipeline for short-horizon modeling using high-frequency limit order book microstructure data, with emphasis on feature engineering and predictive modeling.  
-Strong focus on statistical validation, robustness, and realistic backtesting under transaction costs.
+### 📊 Limit Order Book Alpha Research Pipeline  
+Built a research pipeline for short-horizon prediction using high-frequency limit order book microstructure data.  
+Emphasis on feature engineering, statistical validation, robustness, and realistic backtesting under transaction costs.
 
 ---
 
 ## ⚡ Hackathon Project
 
 ### 🔌 Energy Consumption Prediction for Refrigerators  
-Developed a machine learning model to disaggregate and predict household refrigerator energy consumption from aggregate smart-meter data.
-Emphasized regression modeling, feature engineering, and generalization to unseen households.
+Developed a machine learning model to disaggregate and predict household refrigerator energy consumption from aggregate smart-meter data.  
+Emphasized time-series preprocessing, regression modeling, and generalization to unseen households.
 
 ---
 
 ## 🏫 University Projects
 
 ### ⚽ Machine Learning Soccer Player Valuation  
-Built a data-driven valuation model for professional soccer players using performance metrics and contextual features.  
-Applied supervised learning techniques and model interpretability methods.
+Developed a machine learning model to predict professional football players’ market value using technical, physical, and contextual features.  
+Applied LightGBM with feature engineering, log-transformed targets, Optuna-based hyperparameter tuning, and SHAP analysis to interpret key drivers of player valuation.
+
+### 🗄️ Big Data Project: Medical Insurance Claim Analytics  
+Built an end-to-end big data workflow in KNIME to analyze medical insurance claims.  
+Modeled claim occurrence and claim severity using regression, classification, and clustering techniques, with careful treatment of data leakage, class imbalance, and heavy-tailed cost distributions.
 
 ### 📉 Statistical Analysis of Longevity and Supercentenarians  
-Conducted a statistical study on human longevity, with a focus on **supercentenarians**.  
-Analyzed survival distributions, tail behavior, and demographic effects.
+Conducted a survival analysis study on human longevity using validated centenarian and supercentenarian data.  
+Fitted parametric survival models (Gamma and Weibull) and compared them against Kaplan–Meier estimates to study tail behavior and extrapolated lifespan limits.
 
-### 🧠 k-SAT Solver (Theoretical Computer Science)  
-Implemented and analyzed algorithms for solving the **k-SAT problem**, studying computational complexity and performance trade-offs.
-
-### 🗄️ Big Data Project: Medical Insurance Analytics  
-Processed large-scale medical insurance datasets to study cost drivers and risk factors.  
-Used distributed data processing and statistical analysis techniques.
+### 🧠 Random 3-SAT Solver
+Implemented a stochastic solver for random 3-SAT instances using simulated annealing.  
+Analyzed algorithmic performance, acceptance-rate dynamics, and empirical phase transitions as a function of the clause-to-variable ratio.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Mathematics**: Probability, Statistics, Optimization  
-- **Machine Learning**: Supervised Learning, Time Series, Reinforcement Learning  
-- **Programming**: Python, NumPy, PyTorch, SQL  
-- **Data**: Statistical modeling, large-scale data analysis
+- **Mathematics & Statistics**  
+  Probability theory, statistical inference, survival analysis, optimization, stochastic processes, regression analysis
+
+- **Machine Learning & Modeling**  
+  Supervised learning (regression, classification), gradient boosting (LightGBM, XGBoost), time-series modeling, stochastic optimization, reinforcement learning fundamentals, model evaluation and validation, hyperparameter   optimization (Optuna)
+
+- **Programming & Software**  
+  Python, NumPy, pandas, PyTorch, R, SQL, Jupyter, Git
+  
+- **Data & Analytics**  
+  Statistical modeling, feature engineering, large-scale data analysis, model interpretation, KNIME analytics workflows
+
 
 
