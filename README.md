@@ -49,6 +49,11 @@ Modeled claim occurrence and claim severity using regression, classification, an
 Conducted a survival analysis study on human longevity using validated centenarian and supercentenarian data.  
 Fitted parametric survival models (Gamma and Weibull) and compared them against Kaplan–Meier estimates to study tail behavior and extrapolated lifespan limits.
 
+### 📐 [Econometric Analysis of the Solow Growth Model](https://github.com/Jakob-7/Econometric-Analysis-of-the-Solow-Model)  
+Performed an econometric analysis of economic growth using cross-country World Bank data.  
+Estimated and extended the Solow model with savings, population growth, and education, addressing missing data, log-log specifications, and omitted variable bias.
+
+
 ### 🧠 [Random 3-SAT Solver with Simulated Annealing](https://github.com/Jakob-7/Solving-Random-k-SAT-with-Simulated-Annealing) 
 Implemented a stochastic solver for random 3-SAT instances using simulated annealing.  
 Analyzed algorithmic performance, acceptance-rate dynamics, and empirical phase transitions as a function of the clause-to-variable ratio.
