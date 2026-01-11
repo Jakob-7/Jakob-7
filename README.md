@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I’m Jakob Lutz and I am currently studying Computer Science and Economics, with a strong interest in applying mathematical and statistical methods to problems in quantitative finance and machine learning.
+I’m Jakob Lutz, a Computer Science and Economics student with a strong interest in applying mathematical and statistical methods to problems in quantitative finance and machine learning.
 
 📫 Reach me: jakob.lutz123@gmail.com
 
