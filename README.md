@@ -1,6 +1,6 @@
 ## Jakob Lutz
 
-I’m a Computer Science and Economics student with a strong interest in applying mathematical and statistical methods to problems in quantitative finance and machine learning.
+I am an MSc Quantitative Finance student at WU Vienna with an academic background from Bocconi University and Georgia Tech. My interests lie in applying mathematical and statistical methods to quantitative finance, derivatives trading and machine learning.
 
 📫 Reach me: jakob.lutz123@gmail.com
 
@@ -9,8 +9,9 @@ I’m a Computer Science and Economics student with a strong interest in applyin
 
 ## 🎓 Academic Background
 
-- **BSc in Economics & Computer Science** — Bocconi University, Milan, Italy  
-- **Exchange Student** — Georgia Institute of Technology, Atlanta, United States  
+- **MSc in Quantitative Finance** — WU Vienna, Austria
+- **BSc in Economics, Management and Computer Science** — Bocconi University, Milan, Italy
+- **Exchange Student** — Georgia Institute of Technology, Atlanta, United States
 
 ---
 
