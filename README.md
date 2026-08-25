@@ -42,6 +42,10 @@ Emphasized time-series preprocessing, regression modeling, and generalization to
 
 ## 🏫 University Projects
 
+### 💰 [401(k) Wealth Analysis](https://github.com/Jakob-7/401k-Wealth-Analysis)  
+Analyzed the relationship between 401(k) participation and household wealth using data from the 1991 Survey of Income and Program Participation.  
+Combined random forest counterfactual prediction with OLS and instrumental-variable regression to compare predictive machine learning methods with causal econometric approaches.
+
 ### ⚽ [Machine Learning Soccer Player Valuation](https://github.com/Jakob-7/ML_football_market_value)  
 Developed a machine learning model to predict professional football players’ market value using technical, physical, and contextual features.  
 Applied LightGBM with feature engineering, log-transformed targets, Optuna-based hyperparameter tuning, and SHAP analysis to interpret key drivers of player valuation.
