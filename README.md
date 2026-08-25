@@ -18,7 +18,7 @@ I am an MSc Quantitative Finance student at WU Vienna with an academic backgroun
 ## 🔬 Personal Projects
 
 ### 🧠 [Deep Learning for Heston Model Calibration](https://github.com/Jakob-7/deep-learning-heston-calibration)  
-Developed a neural-network-based calibration method that reduced computation time by approximately 32,000 times compared with traditional numerical optimization while maintaining competitive parameter accuracy. 
+Developed a neural-network-based calibration method that reduced computation time by approximately 32,000 times compared with traditional numerical optimization while maintaining competitive parameter accuracy.  
 Applied SHAP analysis to interpret the model’s predictions and verify that it learned financially meaningful relationships from option price data.
 
 
