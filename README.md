@@ -17,6 +17,10 @@ I am an MSc Quantitative Finance student at WU Vienna with an academic backgroun
 
 ## 🔬 Personal Projects
 
+### 🧠 [Deep Learning for Heston Model Calibration](https://github.com/Jakob-7/deep-learning-heston-calibration)  
+Developed a neural-network approach for calibrating the Heston stochastic volatility model and benchmarked it against traditional numerical optimization.  
+Achieved approximately 32,000 times faster calibration while analyzing model accuracy and interpretability using SHAP.
+
 ### 📈 [Machine Learning Trading System](https://github.com/Jakob-7/Machine-Learning-Trading-System)  
 Designed and implemented an end-to-end trading system using machine learning models for signal generation and portfolio construction.  
 Focused on feature engineering, model evaluation under realistic constraints, and risk-adjusted performance.
