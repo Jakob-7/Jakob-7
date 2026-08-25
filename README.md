@@ -10,7 +10,7 @@ I am an MSc Quantitative Finance student at WU Vienna with an academic backgroun
 ## 🎓 Academic Background
 
 - **MSc in Quantitative Finance** — WU Vienna, Austria
-- **BSc in Economics, Management and Computer Science** — Bocconi University, Milan, Italy
+- **BSc in Economics and Computer Science** — Bocconi University, Milan, Italy
 - **Exchange Student** — Georgia Institute of Technology, Atlanta, United States
 
 ---
